@@ -1,0 +1,11 @@
+# HATI HATI SITUS PENIPUAN /SITUS PHISING
+# https-sites.google.com-view-call-center-tunaiku-24-jam-
+ User-agent: *robots.txt
+ Disallow:
+ Allow: /
+
+ https://sites.google.com/view/kreditpintarreal/halaman-muka/sitemap.xml
+ https://sites.google.com/view/kontakcs-pusatbantuaneasycash/beranda/hubungi-kami-easycash/sitemap.xml
+ https://sites.google.com/view/csresmirupiahcepat/kontak-cs-resmi-rupiah-cepat/sitemap.xml
+  https://sites.google.com/view/call-center-tunaiku-24-jam/beranda/sitemap.xml
+ https://sites.google.com/view/call-center-tunaiku-24-jam/
