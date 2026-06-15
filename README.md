@@ -1,3 +1,4 @@
+HATI HATI SITUS PENIPUAN
 # https-sites.google.com-view-call-center-tunaiku-24-jam-
 https://sites.google.com/view/call-center-tunaiku-24-jam/robots.txs
 User-agent: *
